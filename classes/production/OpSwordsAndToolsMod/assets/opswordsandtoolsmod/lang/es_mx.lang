@@ -1,0 +1,9 @@
+item.test_item.name=Test Item
+item.dragon_slayer.name=Cazador de Dragones
+item.super_pic.name=Súper Pico
+item.wood_chuck.name=Madera Chuck
+item.emerald_rod.name=Esmeralda Barra
+item.emerald_ingot.name=Esmeralda Lingote
+item.emerald_sword.name=Esmeralda Espada
+
+itemGroup.opsowrds=Op Espadas
